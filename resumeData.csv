@@ -1,0 +1,6 @@
+id,firstName,lastName,email,phone,education,skills
+1,John,Appleseed,hi@gmail.com,2101234567,n/a,n/a
+2,john,Paul,bye@gmail.com,4561234567,n/a,n/a
+3,John,Perez,die@gmail.com,1234567,n/a,n/a
+4,Ryan,Perez,Ryan.r.perez@ttu.edu,2108430523,High School Diploma.Batchelors Degree,C.Microsoft word.Java.Swift.Angular.Javascript.Microsoft powerpoint.Python.Mysql.
+5,Paul,Perez,die@gmail.com,1234567,n/a,C#.Java
